@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-color: #e3e6f8; /* Sky Blue background */
+  
+}
+
+.container {
+  max-width: 800px;
+}
+
+.search-bar {
+  background-color: rgb(78, 136, 243);
+  
+}
+
